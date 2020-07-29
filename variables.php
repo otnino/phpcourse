@@ -1,5 +1,5 @@
 <?php 
-	$company_name = "FarmAnimals, Inc."; 
+	$company_name = "FarmAnimals, LLC"; 
 	$tagline = "Teaching Guitar since 2001";
 
 
